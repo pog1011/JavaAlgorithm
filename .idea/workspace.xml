@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="206f8068-0831-4a82-8bf1-e66b31cb4a6c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="DataStructureAndAlgorithm" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\Maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1avExNL85GDugNkIK4FyDiyDLkH" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ink/pog/test" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\DataStructureAndAlgorithm\src\ink\pog\test" />
+      <recent name="D:\DataStructureAndAlgorithm\src\ink\pog" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LinkList">
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ink.pog.algorithm.leetcode.Array" />
+      <module name="DataStructureAndAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ink.pog.algorithm.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientApp1 (1)" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ink.pog.test.ClientApp" />
+      <module name="DataStructureAndAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ink.pog.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientApp1 (2)" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ink.pog.test.ClientApp" />
+      <module name="DataStructureAndAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ink.pog.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DFSAndBFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ink.pog.algorithm.leetcode.DFSAndBFS" />
+      <module name="DataStructureAndAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ink.pog.algorithm.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EightQueen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ink.pog.datastructure.recursion.EightQueen" />
+      <module name="DataStructureAndAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ink.pog.datastructure.recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ink.pog.algorithm.LinkList" />
+      <module name="DataStructureAndAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ink.pog.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ink.pog.algorithm.leetcode.Tree" />
+      <module name="DataStructureAndAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ink.pog.algorithm.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ClientApp1 (1)" />
+      <item itemvalue="Application.ClientApp1 (2)" />
+      <item itemvalue="Application.Tree" />
+      <item itemvalue="Application.EightQueen" />
+      <item itemvalue="Application.Array" />
+      <item itemvalue="Application.DFSAndBFS" />
+      <item itemvalue="Application.LinkList" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LinkList" />
+        <item itemvalue="Application.DFSAndBFS" />
+        <item itemvalue="Application.Array" />
+        <item itemvalue="Application.EightQueen" />
+        <item itemvalue="Application.Tree" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="206f8068-0831-4a82-8bf1-e66b31cb4a6c" name="Default Changelist" comment="" />
+      <created>1587607912719</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587607912719</updated>
+      <workItem from="1587607920566" duration="63602000" />
+      <workItem from="1587891835990" duration="147753000" />
+      <workItem from="1588775313174" duration="14998000" />
+      <workItem from="1588844424298" duration="1090000" />
+      <workItem from="1588900781796" duration="9990000" />
+      <workItem from="1588994763224" duration="22241000" />
+      <workItem from="1589115225793" duration="4900000" />
+      <workItem from="1589183575447" duration="24612000" />
+      <workItem from="1589336023540" duration="145000" />
+      <workItem from="1589336200852" duration="3143000" />
+      <workItem from="1589441267813" duration="103000" />
+      <workItem from="1589470538996" duration="11254000" />
+      <workItem from="1589642646668" duration="882000" />
+      <workItem from="1589692826607" duration="473000" />
+      <workItem from="1589771122856" duration="85000" />
+      <workItem from="1589771252288" duration="605000" />
+      <workItem from="1589772334101" duration="232000" />
+      <workItem from="1589786549258" duration="8117000" />
+      <workItem from="1589813494428" duration="3730000" />
+      <workItem from="1589882977560" duration="10100000" />
+      <workItem from="1589947109422" duration="1474000" />
+      <workItem from="1589965062119" duration="14000" />
+      <workItem from="1590152775330" duration="6215000" />
+      <workItem from="1590378153385" duration="3780000" />
+      <workItem from="1590417488942" duration="3047000" />
+      <workItem from="1590669545394" duration="8447000" />
+      <workItem from="1590767981523" duration="1949000" />
+      <workItem from="1590848347835" duration="6274000" />
+      <workItem from="1590930839610" duration="7442000" />
+      <workItem from="1591109613685" duration="14778000" />
+      <workItem from="1591360585453" duration="16668000" />
+      <workItem from="1591687739414" duration="11000" />
+      <workItem from="1591966867703" duration="1131000" />
+      <workItem from="1591972284398" duration="1349000" />
+      <workItem from="1591974404545" duration="2280000" />
+      <workItem from="1592287402414" duration="153000" />
+      <workItem from="1593348902910" duration="1644000" />
+      <workItem from="1593395145221" duration="8000" />
+      <workItem from="1593577863834" duration="1075000" />
+      <workItem from="1593593666052" duration="412000" />
+      <workItem from="1593594187792" duration="1353000" />
+      <workItem from="1593595778760" duration="17318000" />
+      <workItem from="1596351343263" duration="6486000" />
+      <workItem from="1596720156995" duration="13591000" />
+      <workItem from="1596805523627" duration="6082000" />
+      <workItem from="1596874731009" duration="5457000" />
+      <workItem from="1597030721949" duration="78000" />
+      <workItem from="1597070911262" duration="1481000" />
+      <workItem from="1597156248137" duration="1678000" />
+      <workItem from="1598018904563" duration="330000" />
+      <workItem from="1598109120874" duration="1295000" />
+      <workItem from="1598364470915" duration="328000" />
+      <workItem from="1598451552457" duration="3190000" />
+      <workItem from="1598492723202" duration="6892000" />
+      <workItem from="1598664502926" duration="27000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="376" y="32" key="#ClientApp" timestamp="1593596008404">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="376" y="32" key="#ClientApp/0.0.1366.728@0.0.1366.728" timestamp="1593596008404" />
+    <state x="190" y="36" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593612719103">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="190" y="36" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1593612719103" />
+    <state x="618" y="45" key="#com.intellij.ide.util.MemberChooser" timestamp="1596806581358">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="618" y="45" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1596806581358" />
+    <state x="378" y="104" key="FileChooserDialogImpl" timestamp="1593594561912">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1593594561912" />
+    <state width="1322" height="235" key="GridCell.Tab.0.bottom" timestamp="1598582846535">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="235" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598582846535" />
+    <state width="1322" height="235" key="GridCell.Tab.0.center" timestamp="1598582846534">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="235" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598582846534" />
+    <state width="1322" height="235" key="GridCell.Tab.0.left" timestamp="1598582846534">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="235" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598582846534" />
+    <state width="1322" height="235" key="GridCell.Tab.0.right" timestamp="1598582846535">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="235" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598582846535" />
+    <state width="1322" height="235" key="GridCell.Tab.1.bottom" timestamp="1598582846535">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="235" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598582846535" />
+    <state width="1322" height="235" key="GridCell.Tab.1.center" timestamp="1598582846535">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="235" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1598582846535" />
+    <state width="1322" height="235" key="GridCell.Tab.1.left" timestamp="1598582846535">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="235" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1598582846535" />
+    <state width="1322" height="235" key="GridCell.Tab.1.right" timestamp="1598582846535">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="235" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1598582846535" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1593594565886">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1593594565886" />
+    <state x="53" y="0" key="new project wizard" timestamp="1591619476826">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="53" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1591619476826" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1593604128756">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1593604128756" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ink/pog/datastructure/linklist/SingleLikeList.java</url>
+          <line>219</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ink/pog/datastructure/stack/ComputerStack.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ink/pog/datastructure/recursion/Maze.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ink/pog/datastructure/search/FibonacciSearch.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ink/pog/datastructure/hash/HashTab.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ink/pog/datastructure/tree/ArrayBinaryTree.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ink/pog/datastructure/sort/HeapSort.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ink/pog/datastructure/tree/AVLTree.java</url>
+          <line>102</line>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ink/pog/datastructure/sumTest.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ink/pog/algorithm/HoniTower.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ink/pog/algorithm/DynamicProgramming.java</url>
+          <line>110</line>
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ink/pog/datastructure/sumTest.java</url>
+          <line>181</line>
+          <option name="timeStamp" value="214" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ink/pog/test.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="216" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ink/pog/datastructure/sumTest.java</url>
+          <line>202</line>
+          <option name="timeStamp" value="220" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ink/pog/datastructure/sumTest.java</url>
+          <line>241</line>
+          <option name="timeStamp" value="221" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ink/pog/datastructure/sumTest.java</url>
+          <line>350</line>
+          <option name="timeStamp" value="222" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ink/pog/datastructure/tree/BinaryTree.java</url>
+          <line>187</line>
+          <option name="timeStamp" value="233" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ink/pog/algorithm/leetcode/Tree.java</url>
+          <line>109</line>
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ink/pog/algorithm/leetcode/Array.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ink/pog/test/ServerApp.java</url>
+          <line>331</line>
+          <option name="timeStamp" value="263" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ink/pog/test/ClientApp.java</url>
+          <line>307</line>
+          <option name="timeStamp" value="264" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ink/pog/algorithm/leetcode/Tree.java</url>
+          <line>295</line>
+          <option name="timeStamp" value="269" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ink/pog/datastructure/tree/ThreadBinaryTree.java</url>
+          <line>12</line>
+          <properties class="ink.pog.datastructure.tree.ThreadBinaryTree" method="threadTree">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ink/pog/datastructure/sumTest.java</url>
+          <line>100</line>
+          <properties class="ink.pog.datastructure.sumTest" method="numDivide">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="205" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="head.next" language="JAVA" />
+        <watch expression="linkListStack.head.next" />
+        <watch expression="((AVLTreeNode)this).value" custom="ink.pog.datastructure.tree.AVLTreeNode" />
+        <watch expression="last.next.next" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$ComputerStack.ic" NAME="ComputerStack Coverage Results" MODIFIED="1588050340707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ink.pog.datastructure.stack.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$Tree.ic" NAME="Tree Coverage Results" MODIFIED="1591628479941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ink.pog.algorithm.leetcode.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$Graph.ic" NAME="Graph Coverage Results" MODIFIED="1589885116384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ink.pog.datastructure.graph.*</FILTER>
+    </SUITE>
+  </component>
+</project>
